@@ -6,5 +6,10 @@ namespace ConsoleApp4
 {
     class NewClass
     {
+
+        void funkcija()
+        {
+
+        }
     }
 }
